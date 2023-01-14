@@ -1,0 +1,13 @@
+Name,Value,Quantity,Notes
+"BAT43, BAT43",,2,
+Vero Board,,1,
+C1,100pF,1,
+C2,68nF,1,
+IC1,Arduino Nano,1,
+MPC47255,,1,
+"OUT, V/OCT",Mono,2,
+PH1,,1,
+R1,1K,1,
+R2,330K,1,
+R3,100Ω,1,
+Waveshape,100K Lin,1,
