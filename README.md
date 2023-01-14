@@ -10,3 +10,5 @@ and Kevin from SDEMP: https://diyelectromusic.wordpress.com/2020/09/29/mcp4725-a
 # Usage
 Install Mozzi Library  
 Include weir2048_int8.h in ~/path/to/Arduino/libraries/Mozzi-master/tables/
+
+![Stripboard layout](https://raw.githubusercontent.com/rrags/FractalWavetableSynth/main/fractalsynth_v1.png)
